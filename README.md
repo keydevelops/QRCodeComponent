@@ -14,10 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/screenshot.png)
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://soon.com)
-- Live Site URL: [Add live site URL here](https://soon.com) -->
+- Solution URL: [https://frontendmentor.io/](https://www.frontendmentor.io/solutions/responsive-qr-code-component-BpoNnLtuOt)
+- Live Site URL: [https://keydevelops.github.io/](https://keydevelops.github.io/QRCodeComponent)
 
 ## Author
 
